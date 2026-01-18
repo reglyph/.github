@@ -39,7 +39,7 @@ If you want to contribute, learn more about the project, or just say hi:
 
 - 📩 Email: **hello@reglyph.dev**
 - 💬 GitHub: https://github.com/reglyph
-- ✈️ Telegram: https://reglyph
+- ✈️ Telegram: https://t.me/reglyph
 ---
 
 Made with ❤️ by the @reglyph/team ✨
